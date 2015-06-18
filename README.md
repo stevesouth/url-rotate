@@ -2,6 +2,7 @@
 
 # usage
 
+```javascript
 rotateUrls([
 {
 	url: "http://bbc.com",
@@ -9,6 +10,7 @@ rotateUrls([
 },
 {
 	url: "http://bing.com",
-	start: "08:34"
+	start: "09:00"
 }
 ]);
+```
